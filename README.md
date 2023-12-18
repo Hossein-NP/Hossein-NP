@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hossein Noruzpur
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning js and python
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me hosseinnoruzpur@outlook.com
 
