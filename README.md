@@ -1,5 +1,5 @@
 # 💫 About Me:
--Hello! I’m a front-end developer with expertise in building responsive and visually appealing web applications. My tech stack includes HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, and Git. I’m passionate about creating efficient, user-friendly UI/UX experiences and staying up-to-date with the latest trends in web development.
+👨‍💻 Hello! I’m a front-end developer with expertise in building responsive and visually appealing web applications. My tech stack includes HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, and Git. I’m passionate about creating efficient, user-friendly UI/UX experiences and staying up-to-date with the latest trends in web development.
 
 I’m always open to learning and collaboration. Let’s connect and bring innovative ideas to life!
 
